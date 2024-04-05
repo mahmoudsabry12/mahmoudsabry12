@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Sabry Software Engineer</h1>
+<h1 align="center" >Hi 👋, I'm $${\color{teal}Mahmoud Sabry}$$ Software Engineer</h1>
 <h3 align="center">Frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Dalily**
